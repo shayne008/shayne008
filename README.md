@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Heather
-- 👀 I’m interested in linux , python and the cloud
+- 👀 I’m interested in linux, security, python and the cloud
 - 🌱 I’m currently learning linux and python with some dev ops
 - 💞️ I’m looking to collaborate on all things related to the above
 - 📫 How to reach me @hthg02 on twitter or check on my blog hthgibbs.com
