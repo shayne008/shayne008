@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Heather
-- 👀 I’m interested in linux, security, python and the cloud
-- 🌱 I’m currently learning linux and python with some dev ops
-- 💞️ I’m looking to collaborate on all things related to the above
+- 👀 I’m interested in all things open source,coding and the cloud
+- 🌱 I’m currently learning all things dev ops
+- 💞️ I’m looking to collaborate on all things related to the above including music production
 - 📫 How to reach me @hthg02 on twitter or check on my blog hthgibbs.com
 
 <!---
