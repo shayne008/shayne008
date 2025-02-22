@@ -1,4 +1,4 @@
-### 👋🏽 Hi, I’m Heather! I’m interested in all things linux, open source, automation, programming and the cloud. I’m currently learning all things related to dev ops and go. I’m looking to collaborate on all things related to the above. I am also music producer and love to explore astrology.
+### 👋🏽 Hi, I’m Heather! I’m a linux system admin focusing on automation, containers and ai.
 
 ----
 
